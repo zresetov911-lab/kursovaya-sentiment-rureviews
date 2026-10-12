@@ -1,0 +1,23 @@
+{
+  "dataset": "RuReviews",
+  "source": "https://raw.githubusercontent.com/sismetanin/rureviews/master/women-clothing-accessories.3-class.balanced.csv",
+  "license": "Apache-2.0",
+  "initial_rows": 90000,
+  "missing_rows_removed": 0,
+  "invalid_labels_removed": 0,
+  "short_texts_removed": 178,
+  "duplicate_texts_removed": 3565,
+  "modeling_rows": 86257,
+  "class_counts": {
+    "negative": 28833,
+    "neutral": 28414,
+    "positive": 29010
+  },
+  "median_text_length": 96.0,
+  "mean_text_length": 135.39843722828292,
+  "median_word_count": 15.0,
+  "train_rows": 51753,
+  "validation_rows": 17252,
+  "test_rows": 17252,
+  "random_state": 42
+}

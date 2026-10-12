@@ -1,0 +1,18 @@
+{
+  "best_model": "LogisticRegression",
+  "best_metrics": {
+    "model": "LogisticRegression",
+    "accuracy": 0.7494203570600511,
+    "f1_macro": 0.750434258818193,
+    "f1_weighted": 0.7511409377621804,
+    "roc_auc_ovr_macro": 0.8983959989171849,
+    "log_loss": 0.581273273036607
+  },
+  "calibration": {
+    "model": "LogisticRegression",
+    "multiclass_brier_before": 0.34296023954309496,
+    "multiclass_brier_after": 0.34591599581406673,
+    "log_loss_before": 0.581273273036607,
+    "log_loss_after": 0.5860470567371019
+  }
+}

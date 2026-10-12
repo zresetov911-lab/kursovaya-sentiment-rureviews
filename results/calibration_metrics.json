@@ -1,0 +1,7 @@
+{
+  "model": "LogisticRegression",
+  "multiclass_brier_before": 0.34296023954309496,
+  "multiclass_brier_after": 0.34591599581406673,
+  "log_loss_before": 0.581273273036607,
+  "log_loss_after": 0.5860470567371019
+}
